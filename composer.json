@@ -1,0 +1,11 @@
+{
+    "name": "gtaylor/webhook-testing",
+    "description": "webhook testing",
+    "authors": [
+        {
+            "name": "Guy Taylor",
+            "email": "gtaylor@sirran.com"
+        }
+    ],
+    "require": {}
+}
