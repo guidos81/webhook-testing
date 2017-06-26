@@ -8,6 +8,6 @@
         }
     ],
     "require": {
-        "guidos81/ingesttest"
+        "guidos81/ingesttest": "master"
     }
 }
