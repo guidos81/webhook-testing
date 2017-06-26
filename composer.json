@@ -7,5 +7,7 @@
             "email": "gtaylor@sirran.com"
         }
     ],
-    "require": {}
+    "require": {
+        "guidos81/ingesttest"
+    }
 }
